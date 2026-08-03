@@ -21,7 +21,8 @@ a{
     font-family: Arial, sans-serif; /*Estilo da fonte*/
     padding : 10px; 
     background-color: red;
-    
+    display: inline-block
+
 }
 header{
     
